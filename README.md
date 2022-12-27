@@ -12,8 +12,9 @@ This code including five parts:
 2.	Codes for RetiFluidNet model (/models)
 3.	Codes for losses (/losses)
 4.  Codes for Attentions Blocks (/temp)
-4.	Evaluation Code (/results)
-Run the RetiFluidNet on your own network. 
+5.	Evaluation Code (/results)
+
+For runing the RetiFluidNet on your own system: 
 If you want to run and compile the RetiFluidNet based on your own network, there are four simple steps:
 1.	Replace Data paths into train.py
 2.	Compile and run the train.py
