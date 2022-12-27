@@ -2,7 +2,9 @@
 RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation
 
 Reza Rasti, Armin Biglari, Mohammad Rezapourian, Ziyun Yang, and Sina Farsiu
+
 Recently accepted by IEEE Transactions on Medical Imaging.
+
 Paper at: https://ieeexplore.ieee.org/document/9980422
 ________________________________________
 Requirement: Tensorflow 2.4
@@ -15,12 +17,16 @@ This code including five parts:
 5.	Evaluation Code (/results)
 
 For runing the RetiFluidNet on your own system: 
+
 If you want to run and compile the RetiFluidNet based on your own network, there are four simple steps:
 1.	Replace Data paths into train.py
 2.	Compile and run the train.py
+
 Note: If you want to train the network, after replacing the pathes, just run the train.py
 Reproduce the results in the paper (/paper_result)
+
 For reproducing the result just run the /results.py
+
 The pretrained models can be downloaded from Google Drive
 
 Citation
