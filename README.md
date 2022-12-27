@@ -9,12 +9,13 @@ Paper at: https://ieeexplore.ieee.org/document/9980422
 ________________________________________
 Requirement: Tensorflow 2.4
 
-This code including five parts:
+This code including six parts:
 1.	Codes for Reading data (/DataReader)
 2.	Codes for RetiFluidNet model (/models)
 3.	Codes for losses (/losses)
 4.  Codes for Attentions Blocks (/temp)
 5.	Evaluation Code (/results)
+6.  Codes for training (/train)
 
 For runing the RetiFluidNet on your own system: 
 
