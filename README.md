@@ -23,7 +23,6 @@ If you want to run and compile the RetiFluidNet based on your own network, there
 2.	Compile and run the train.py
 
 Note: If you want to train the network, after replacing the pathes, just run the train.py
-Reproduce the results in the paper (/paper_result)
 
 For reproducing the result just run the /results.py
 
