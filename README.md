@@ -9,7 +9,7 @@ Paper at: https://ieeexplore.ieee.org/document/9980422
 ________________________________________
 Requirement: Tensorflow 2.4
 
-This code including six parts:
+This code includes six parts:
 1.	Codes for Reading data (/DataReader)
 2.	Codes for RetiFluidNet model (/models)
 3.	Codes for losses (/losses)
@@ -17,17 +17,16 @@ This code including six parts:
 5.	Evaluation Code (/results)
 6.  Codes for training (/train)
 
-For runing the RetiFluidNet on your own system: 
+For running the RetiFluidNet on your own system: 
 
 If you want to run and compile the RetiFluidNet based on your own network, there are four simple steps:
 1.	Replace Data paths into train.py
 2.	Compile and run the train.py
 
-Note: If you want to train the network, after replacing the pathes, just run the train.py
+Note: If you want to train the network, after replacing the paths, just run the train.py
 
-For reproducing the result just run the /results.py
+To reproduce the result just run the /results.py
 
-The pretrained models can be downloaded from Google Drive
 
 Citation
 
